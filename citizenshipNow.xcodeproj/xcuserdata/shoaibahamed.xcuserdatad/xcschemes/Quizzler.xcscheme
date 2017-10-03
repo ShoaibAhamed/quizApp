@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "633646B81B8C657400FF45E2"
-               BuildableName = "Quizzler.app"
-               BlueprintName = "Quizzler"
-               ReferencedContainer = "container:Quizzler.xcodeproj">
+               BuildableName = "citizenshipNow.app"
+               BlueprintName = "citizenshipNow"
+               ReferencedContainer = "container:citizenshipNow.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "633646B81B8C657400FF45E2"
-            BuildableName = "Quizzler.app"
-            BlueprintName = "Quizzler"
-            ReferencedContainer = "container:Quizzler.xcodeproj">
+            BuildableName = "citizenshipNow.app"
+            BlueprintName = "citizenshipNow"
+            ReferencedContainer = "container:citizenshipNow.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "633646B81B8C657400FF45E2"
-            BuildableName = "Quizzler.app"
-            BlueprintName = "Quizzler"
-            ReferencedContainer = "container:Quizzler.xcodeproj">
+            BuildableName = "citizenshipNow.app"
+            BlueprintName = "citizenshipNow"
+            ReferencedContainer = "container:citizenshipNow.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "633646B81B8C657400FF45E2"
-            BuildableName = "Quizzler.app"
-            BlueprintName = "Quizzler"
-            ReferencedContainer = "container:Quizzler.xcodeproj">
+            BuildableName = "citizenshipNow.app"
+            BlueprintName = "citizenshipNow"
+            ReferencedContainer = "container:citizenshipNow.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

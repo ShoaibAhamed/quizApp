@@ -11,41 +11,36 @@ class QuestionBank{
     init () {
         
         // Creating a quiz item and appending it to the list
-        let item = Question(text: "Bangladesh a country 115 times smaller than Russia has 23 million more people", correctAnswer: true)
+        let item = Question(text: "Any male entered USA between age of 18 to 26 must register for Selective Service regardless citizenship status.", correctAnswer: true)
         
         // Add the Question to the list of questions
         list.append(item)
-        
-//        // Creating a quiz item and appending it to the list
-//        let item = Question(text: "Valentine\'s day is banned in Saudi Arabia.", correctAnswer: true)
-//        
-//        // Add the Question to the list of questions
-//        list.append(item)
+         
         
         // skipping one step and just creating the quiz item inside the append function
-        list.append(Question(text: "A slug\'s blood is green.", correctAnswer: true))
+        list.append(Question(text: "If you're required to register for Selective Service but never did it, you are likely to be ineligible for federal student aid/loan and even federal jobs.", correctAnswer: true))
         
-        list.append(Question(text: "Approximately one quarter of human bones are in the feet.", correctAnswer: true))
+        list.append(Question(text: "\" God Bless America \" are the first three words of the constitution.", correctAnswer: false))
         
-        list.append(Question(text: "The total surface area of two human lungs is approximately 70 square metres.", correctAnswer: true))
+        list.append(Question(text: " The Bill of Rights are the first 20 amendments of the constitution.", correctAnswer: false))
         
-        list.append(Question(text: "In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.", correctAnswer: true))
+        list.append(Question(text: "The US constitution has total 29 amendments", correctAnswer: false))
         
-        list.append(Question(text: "In London, UK, if you happen to die in the House of Parliament, you are technically entitled to a state funeral, because the building is considered too sacred a place.", correctAnswer: false))
+        list.append(Question(text: "There are 51 stars in US flag.", correctAnswer: false))
         
-        list.append(Question(text: "It is illegal to pee in the Ocean in Portugal.", correctAnswer: true))
+        list.append(Question(text: "There are 98 US senators.", correctAnswer: false))
         
-        list.append(Question(text: "You can lead a cow down stairs but not up stairs.", correctAnswer: false))
+        list.append(Question(text: " US constitution was written on 1787.", correctAnswer: true))
         
-        list.append(Question(text: "Google was originally called \"Backrub\".", correctAnswer: true))
+        list.append(Question(text: "If President can no longer serve, the Speaker of the House becomes the President.", correctAnswer: false))
         
-        list.append(Question(text: "Buzz Aldrin\'s mother\'s maiden name was \"Moon\".", correctAnswer: true))
+        list.append(Question(text: "There are 9 justices on the Supreme Court.", correctAnswer: true))
         
-        list.append(Question(text: "The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.", correctAnswer: false))
+        list.append(Question(text: "The name of the Chief Justice of USA now is Sean Spicer.", correctAnswer: false))
         
-        list.append(Question(text: "No piece of square dry paper can be folded in half more than 7 times.", correctAnswer: false))
+        list.append(Question(text: " The Republican and Tea Party are the two  major political parties of USA now.", correctAnswer: false))
         
-        list.append(Question(text: "Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.", correctAnswer: true))
+        list.append(Question(text: "Abraham Lincoln wrote the Declaration of Independence.", correctAnswer: false))
         
     }
     

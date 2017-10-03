@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		603A6F051F282811001F4630 /* US@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 603A6F021F282811001F4630 /* US@2x.png */; };
+		603A6F061F282811001F4630 /* US.png in Resources */ = {isa = PBXBuildFile; fileRef = 603A6F031F282811001F4630 /* US.png */; };
+		603A6F071F282811001F4630 /* US@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 603A6F041F282811001F4630 /* US@3x.png */; };
+		603A6F0A1F282AD2001F4630 /* flag2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 603A6F081F282AD2001F4630 /* flag2.jpg */; };
+		603A6F0B1F282AD2001F4630 /* flag3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 603A6F091F282AD2001F4630 /* flag3.jpg */; };
+		603A6F0D1F282B29001F4630 /* flag3.png in Resources */ = {isa = PBXBuildFile; fileRef = 603A6F0C1F282B29001F4630 /* flag3.png */; };
+		603A6F0F1F282B2F001F4630 /* flag2.png in Resources */ = {isa = PBXBuildFile; fileRef = 603A6F0E1F282B2F001F4630 /* flag2.png */; };
+		603A6F111F2838A8001F4630 /* flag9.png in Resources */ = {isa = PBXBuildFile; fileRef = 603A6F101F2838A8001F4630 /* flag9.png */; };
 		604439171F1C4EBC00180C18 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604439161F1C4EBC00180C18 /* Question.swift */; };
 		604439191F1C627500180C18 /* QuestionBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 604439181F1C627500180C18 /* QuestionBank.swift */; };
 		6044391E1F1D84C200180C18 /* ProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6044391B1F1D84C200180C18 /* ProgressHUD.bundle */; };
@@ -19,13 +27,21 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		603A6F021F282811001F4630 /* US@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "US@2x.png"; sourceTree = "<group>"; };
+		603A6F031F282811001F4630 /* US.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = US.png; sourceTree = "<group>"; };
+		603A6F041F282811001F4630 /* US@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "US@3x.png"; sourceTree = "<group>"; };
+		603A6F081F282AD2001F4630 /* flag2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flag2.jpg; sourceTree = "<group>"; };
+		603A6F091F282AD2001F4630 /* flag3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flag3.jpg; sourceTree = "<group>"; };
+		603A6F0C1F282B29001F4630 /* flag3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag3.png; sourceTree = "<group>"; };
+		603A6F0E1F282B2F001F4630 /* flag2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag2.png; sourceTree = "<group>"; };
+		603A6F101F2838A8001F4630 /* flag9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag9.png; sourceTree = "<group>"; };
 		604439161F1C4EBC00180C18 /* Question.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		604439181F1C627500180C18 /* QuestionBank.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionBank.swift; sourceTree = "<group>"; };
 		6044391A1F1D84C200180C18 /* Quizzler-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Quizzler-Bridging-Header.h"; sourceTree = "<group>"; };
 		6044391B1F1D84C200180C18 /* ProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ProgressHUD.bundle; sourceTree = "<group>"; };
 		6044391C1F1D84C200180C18 /* ProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgressHUD.h; sourceTree = "<group>"; };
 		6044391D1F1D84C200180C18 /* ProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgressHUD.m; sourceTree = "<group>"; };
-		633646B91B8C657400FF45E2 /* Quizzler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quizzler.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		633646B91B8C657400FF45E2 /* citizenshipNow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = citizenshipNow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		633646BD1B8C657400FF45E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		633646BE1B8C657400FF45E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		633646C01B8C657400FF45E2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,7 +72,7 @@
 		633646BA1B8C657400FF45E2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				633646B91B8C657400FF45E2 /* Quizzler.app */,
+				633646B91B8C657400FF45E2 /* citizenshipNow.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -89,6 +105,14 @@
 			isa = PBXGroup;
 			children = (
 				633646C51B8C657400FF45E2 /* Images.xcassets */,
+				603A6F101F2838A8001F4630 /* flag9.png */,
+				603A6F081F282AD2001F4630 /* flag2.jpg */,
+				603A6F0C1F282B29001F4630 /* flag3.png */,
+				603A6F0E1F282B2F001F4630 /* flag2.png */,
+				603A6F091F282AD2001F4630 /* flag3.jpg */,
+				603A6F021F282811001F4630 /* US@2x.png */,
+				603A6F031F282811001F4630 /* US.png */,
+				603A6F041F282811001F4630 /* US@3x.png */,
 				633646C21B8C657400FF45E2 /* Main.storyboard */,
 			);
 			name = View;
@@ -115,9 +139,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		633646B81B8C657400FF45E2 /* Quizzler */ = {
+		633646B81B8C657400FF45E2 /* citizenshipNow */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 633646D81B8C657400FF45E2 /* Build configuration list for PBXNativeTarget "Quizzler" */;
+			buildConfigurationList = 633646D81B8C657400FF45E2 /* Build configuration list for PBXNativeTarget "citizenshipNow" */;
 			buildPhases = (
 				633646B51B8C657400FF45E2 /* Sources */,
 				633646B61B8C657400FF45E2 /* Frameworks */,
@@ -127,9 +151,9 @@
 			);
 			dependencies = (
 			);
-			name = Quizzler;
+			name = citizenshipNow;
 			productName = Quizzler;
-			productReference = 633646B91B8C657400FF45E2 /* Quizzler.app */;
+			productReference = 633646B91B8C657400FF45E2 /* citizenshipNow.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -149,7 +173,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 633646B41B8C657400FF45E2 /* Build configuration list for PBXProject "Quizzler" */;
+			buildConfigurationList = 633646B41B8C657400FF45E2 /* Build configuration list for PBXProject "citizenshipNow" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -162,7 +186,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				633646B81B8C657400FF45E2 /* Quizzler */,
+				633646B81B8C657400FF45E2 /* citizenshipNow */,
 			);
 		};
 /* End PBXProject section */
@@ -173,9 +197,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				6044391E1F1D84C200180C18 /* ProgressHUD.bundle in Resources */,
+				603A6F051F282811001F4630 /* US@2x.png in Resources */,
 				633646C41B8C657400FF45E2 /* Main.storyboard in Resources */,
+				603A6F111F2838A8001F4630 /* flag9.png in Resources */,
+				603A6F0B1F282AD2001F4630 /* flag3.jpg in Resources */,
+				603A6F061F282811001F4630 /* US.png in Resources */,
+				603A6F0A1F282AD2001F4630 /* flag2.jpg in Resources */,
+				603A6F0F1F282B2F001F4630 /* flag2.png in Resources */,
+				603A6F071F282811001F4630 /* US@3x.png in Resources */,
 				633646C91B8C657400FF45E2 /* LaunchScreen.xib in Resources */,
 				633646C61B8C657400FF45E2 /* Images.xcassets in Resources */,
+				603A6F0D1F282B29001F4630 /* flag3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,7 +343,7 @@
 				DEVELOPMENT_TEAM = E37AA26QE8;
 				INFOPLIST_FILE = Quizzler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shoaibahamed.Quizzler;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shoaibahamed.citizenshipNow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Quizzler/Quizzler-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -327,7 +359,7 @@
 				DEVELOPMENT_TEAM = E37AA26QE8;
 				INFOPLIST_FILE = Quizzler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shoaibahamed.Quizzler;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shoaibahamed.citizenshipNow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Quizzler/Quizzler-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
@@ -337,7 +369,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		633646B41B8C657400FF45E2 /* Build configuration list for PBXProject "Quizzler" */ = {
+		633646B41B8C657400FF45E2 /* Build configuration list for PBXProject "citizenshipNow" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				633646D61B8C657400FF45E2 /* Debug */,
@@ -346,7 +378,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		633646D81B8C657400FF45E2 /* Build configuration list for PBXNativeTarget "Quizzler" */ = {
+		633646D81B8C657400FF45E2 /* Build configuration list for PBXNativeTarget "citizenshipNow" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				633646D91B8C657400FF45E2 /* Debug */,
